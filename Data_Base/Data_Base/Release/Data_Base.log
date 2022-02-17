@@ -1,0 +1,86 @@
+﻿  Data.cpp
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(31,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(89,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(137,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(139,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(162,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(179,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(196,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(216,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(218,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(220,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(242,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(263,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(286,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(295,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(302,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(314,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(324,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(326,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(328,70): warning C4018: '>': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(337,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(339,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(361,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(388,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(399,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(406,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(408,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(424,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(434,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(436,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(438,70): warning C4018: '>': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(447,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(451,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(474,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(504,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(511,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(536,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(544,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(572,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(588,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(594,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(596,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(620,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(636,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(647,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(670,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(678,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(689,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(721,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(723,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(744,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(772,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(780,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(794,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(803,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(814,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(823,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(835,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(846,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(867,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(880,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(886,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(893,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(895,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(920,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(933,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(939,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(946,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(948,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1150,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1186,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1186,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1202,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1230,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1230,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1258,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1282,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\misho\Desktop\new projects\Data_Base\Data_Base\Data.cpp(1282,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 1356 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Data_Base.vcxproj -> C:\Users\misho\Desktop\new projects\Data_Base\Release\Data_Base.exe
